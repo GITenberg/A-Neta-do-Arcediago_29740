@@ -21,6 +21,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29740#A-Neta-do-Arcediago
 gutenberg_bookshelf: PT Romance
 gutenberg_issued: '2009-08-20'
 gutenberg_type: Text
